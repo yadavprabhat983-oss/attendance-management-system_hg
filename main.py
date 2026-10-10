@@ -54,7 +54,7 @@ Examples:
             continue
 
         try:
-            # 1. Hugging Face interprets the natural-language command.
+            # 1. Groq interprets the natural-language command.
             ai_command = parse_command(user_text)
 
             # 2. Python validates and performs the real operation.
